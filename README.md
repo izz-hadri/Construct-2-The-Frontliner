@@ -4,3 +4,11 @@
 
 #### Link to play: https://about-me-c2ff2.web.app/assets/the-frontliner-web/index.html
 #### capx format: https://drive.google.com/file/d/1_ANGW_gG4C4pXFazyKbEONE37mEQDy6q/view?usp=sharing
+
+![demo](mj50.jpg)
+
+![demo](mj51.jpg)
+
+![demo](mj52.jpg)
+
+![demo](mj53.jpg)
